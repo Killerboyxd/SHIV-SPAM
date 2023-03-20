@@ -1,10 +1,10 @@
-# [𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔'𝗦 𝗧𝗢𝗣 𝟭](https://t.me/Karunada_kings_and_queens) <br>
-# 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [ΛႺՕ𝖱Λ](https://t.me/Mr_Agora)
-# KANNADIGA ROBOT SPAMBOT
-# TOP CREDITS - [AGORA](https://t.me/AGORA_ROBOTS)
+# [𝗦𝗛𝗜𝗩 𝗧𝗢𝗣 𝟭](https://t.me/ll_SABKA_BHAI_KILLER_ll) <br>
+# 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝙎𝙃𝙄𝙑](https://t.me/ll_SABKA_BHAI_KILLER_ll)
+# SHIV ROBOT SPAMBOT
+# TOP CREDITS - [SHIV](https://t.me/ll_SABKA_BHAI_KILLER_ll)
 # )
 <p align="center">
-  <img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg">
+  <img src="https://telegra.ph/file/9584b19633bf5b31faa12.jpg">
 </p>
 
 
@@ -21,14 +21,14 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/Agora_Robots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/AgoraEmpire"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/do_dil_ek_jaan143"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 #### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/MR-KANNADIGA/ROBOTSPAM">
+<a href="https://www.heroku.com/deploy?template=https://github.com/Killerboyxd/SHIV-SPAM">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
@@ -38,5 +38,5 @@
 ## Credits 
 
 
-[KANNADIGA](https://t.me/MR_AGORA)<p>
-[WARFADE](https://t.me/WarFade)
+[SHIV](https://t.me/ll_SABKA_BHAI_KILLER_ll)<p>
+[KILLER BOY](https://t.me/ll_KILLER_OP_BOY_ll)
